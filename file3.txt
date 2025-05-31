@@ -1,8 +1,4 @@
 jsadjads
 dsakad
 kdkasdsad
-<<<<<<< HEAD
 modificado desde main
-=======
-modificado
->>>>>>> File3Work
