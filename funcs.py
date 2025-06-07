@@ -1,4 +1,4 @@
 # Acá voy a poner funciones
 
-def suma(a, b): # desde dev
-    return a + b
+def resta(a, b): # desde main
+    return a - b
